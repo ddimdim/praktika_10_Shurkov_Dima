@@ -1,0 +1,15 @@
+\\192.168.200.13\pr305a01\пр-21\Шурков\Prakt_10\Prakt_10\Prakt_10\bin\Debug\Prakt_10.exe.config
+\\192.168.200.13\pr305a01\пр-21\Шурков\Prakt_10\Prakt_10\Prakt_10\bin\Debug\Prakt_10.exe
+\\192.168.200.13\pr305a01\пр-21\Шурков\Prakt_10\Prakt_10\Prakt_10\bin\Debug\Prakt_10.pdb
+\\192.168.200.13\pr305a01\пр-21\Шурков\Prakt_10\Prakt_10\Prakt_10\obj\Debug\Prakt_10.csproj.AssemblyReference.cache
+\\192.168.200.13\pr305a01\пр-21\Шурков\Prakt_10\Prakt_10\Prakt_10\obj\Debug\Prakt_10.csproj.CoreCompileInputs.cache
+\\192.168.200.13\pr305a01\пр-21\Шурков\Prakt_10\Prakt_10\Prakt_10\obj\Debug\Prakt_10.exe
+\\192.168.200.13\pr305a01\пр-21\Шурков\Prakt_10\Prakt_10\Prakt_10\obj\Debug\Prakt_10.pdb
+C:\Users\shurk\Desktop\Задание 2\Prakt_10\Prakt_10\Prakt_10\obj\Debug\Prakt_10.csproj.AssemblyReference.cache
+C:\Users\shurk\Desktop\Задание 2\Prakt_10\Prakt_10\Prakt_10\obj\Debug\Prakt_10.csproj.SuggestedBindingRedirects.cache
+C:\Users\shurk\Desktop\Задание 2\Prakt_10\Prakt_10\Prakt_10\obj\Debug\Prakt_10.csproj.CoreCompileInputs.cache
+C:\Users\shurk\Desktop\Задание 2\Prakt_10\Prakt_10\Prakt_10\obj\Debug\Prakt_10.exe
+C:\Users\shurk\Desktop\Задание 2\Prakt_10\Prakt_10\Prakt_10\obj\Debug\Prakt_10.pdb
+C:\Users\shurk\Desktop\Задание 2\Prakt_10\Prakt_10\Prakt_10\bin\Debug\Prakt_10.exe.config
+C:\Users\shurk\Desktop\Задание 2\Prakt_10\Prakt_10\Prakt_10\bin\Debug\Prakt_10.exe
+C:\Users\shurk\Desktop\Задание 2\Prakt_10\Prakt_10\Prakt_10\bin\Debug\Prakt_10.pdb
